@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicejames/Projects/PipelineApp/PipelineApp/PipelineApp.csproj": {}
+  },
+  "projects": {
+    "/Users/nicejames/Projects/PipelineApp/PipelineApp/PipelineApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicejames/Projects/PipelineApp/PipelineApp/PipelineApp.csproj",
+        "projectName": "PipelineApp",
+        "projectPath": "/Users/nicejames/Projects/PipelineApp/PipelineApp/PipelineApp.csproj",
+        "packagesPath": "/Users/nicejames/.nuget/packages/",
+        "outputPath": "/Users/nicejames/Projects/PipelineApp/PipelineApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicejames/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
